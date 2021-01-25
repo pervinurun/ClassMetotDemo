@@ -1,0 +1,12 @@
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\C#Demo\Kampintro\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+D:\C#Demo\Kampintro\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
